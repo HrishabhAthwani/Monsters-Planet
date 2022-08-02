@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Monsters-Planet/static/css/main.599cfb20.css",
+    "main.js": "/Monsters-Planet/static/js/main.38b86c60.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/Monsters-Planet/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/Monsters-Planet/index.html",
+    "main.599cfb20.css.map": "/Monsters-Planet/static/css/main.599cfb20.css.map",
+    "main.38b86c60.js.map": "/Monsters-Planet/static/js/main.38b86c60.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/Monsters-Planet/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.599cfb20.css",
+    "static/js/main.38b86c60.js"
+  ]
+}
